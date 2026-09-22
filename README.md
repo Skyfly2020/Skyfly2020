@@ -31,6 +31,11 @@
   <!-- <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  /> -->
 </div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=skyfly2020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyfly2020&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643516126/21504/meow_fingergunsrreverse.png?1643516126" width="32"/>  𝙼𝚢 𝚂𝚘𝚌𝚒𝚊𝚕 <img src="https://emojis.slackmojis.com/emojis/images/1643516126/21503/meow_fingerguns2.png?1643516126" width="32"/></h2>
 <div align="">
   <a href="https://t.me/skyfly2020">
