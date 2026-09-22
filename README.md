@@ -15,10 +15,10 @@
 
 <div align="center">
 
-  <h2>
+  <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1629642651/48931/meow_ru.png?1629642651" width="30"/>
     𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-  </h2>
+  </h1>
 
   🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚏𝚛𝚘𝚖 𝙼𝙸𝚁𝙴𝙰
 
@@ -28,10 +28,10 @@
 
 <div align="center">
 
-  <h2>
+  <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1643515021/10499/meow-mac.png?1643515021" width="27"/>
     𝙼𝚢 𝚂𝚝𝚊𝚌𝚔
-  </h2>
+  </h1>
 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
   <img width="12" />
