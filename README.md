@@ -6,10 +6,4 @@
 
 ## 🛠️ My stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp)
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark)
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp&perline=5)
-
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode)
