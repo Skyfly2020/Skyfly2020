@@ -71,11 +71,11 @@
 
 <div align="center">
 
-  <h2>
+  <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1643516126/21504/meow_fingergunsrreverse.png?1643516126" width="32"/>
     𝙼𝚢 𝚂𝚘𝚌𝚒𝚊𝚕
     <img src="https://emojis.slackmojis.com/emojis/images/1643516126/21503/meow_fingerguns2.png?1643516126" width="32"/>
-  </h2>
+  </h1>
 
   <a href="https://t.me/skyfly2020">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">
