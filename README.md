@@ -32,7 +32,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643515021/10499/meow-mac.png?1643515021" width="27"/>
     𝙼𝚢 𝚂𝚝𝚊𝚌𝚔
   </h1>
-
+  
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"/>
@@ -40,21 +40,20 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
 
   <br/>
-
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
 
   <br/>
-
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"/>
