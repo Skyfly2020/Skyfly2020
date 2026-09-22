@@ -1,5 +1,13 @@
 ## Hi there 👋
 
-[![Codewars Badge](https://codewars.com)](https://www.codewars.com/users/Skyfly2020)
+### 📊 Статистика GitHub
+*(Блоки ниже обновляются автоматически каждую неделю)*
 
-[![Codewars](https://shields.io)](https://www.codewars.com/users/Skyfly2020)
+![GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Как со мной связаться
+- **Codewars:** [Skyfly2020](https://codewars.com)
+- **GitHub:** [Написать в Issues](https://github.com)
