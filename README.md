@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515239/12570/meow_bounce.gif?1643515239" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515297/13171/meow_wave.gif?1643515297" width="30"/> Hey! Nice to see you.</h1>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Skyfly2020.Skyfly2020&color=00cf00)
 
