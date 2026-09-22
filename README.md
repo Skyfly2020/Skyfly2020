@@ -21,5 +21,8 @@
 </div>
 
 ## 📫 My Social:
-[<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">](https://t.me/ТВОЙ_НИК)
-[<img src="https://cdn.simpleicons.org/discord/5865F2" width="40">](https://discord.com/users/ТВОЙ_ID)
+<div align=""> 
+[<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">](https://t.me/skyfly2020)
+  <img width="12" />
+[<img src="https://cdn.simpleicons.org/discord/5865F2" width="40">](https://discord.com/users/skyfly2018)
+</div>
