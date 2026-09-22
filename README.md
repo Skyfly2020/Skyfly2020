@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Codewars Stats](https://r2v.ch)
+[![Codewars Badge](https://codewars.com)](https://www.codewars.com/users/Skyfly2020)
