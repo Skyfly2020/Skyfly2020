@@ -1,10 +1,10 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515239/12570/meow_bounce.gif?1643515239" width="30"/> Hey! Nice to see you.</h1>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Skyfly2020.Skyfly2020&color=00cf00)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚏𝚛𝚘𝚖 𝙼𝙸𝚁𝙴𝙰
-## 🛠️ My stack
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515021/10499/meow-mac.png?1643515021" width="30"/>  My stack</h1> 🛠️ My stack
 
 <div align=""> 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
